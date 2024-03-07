@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandhya RK
 - 👀 I’m interested in automation developement QA
 - 🌱 I’m currently learning javascript, JAVA
-- 💞️ I’m looking to collaborate on QA Automation scripts
+- 💞️ I’m looking to collaborate on QA Automation scripts using selenium, java, TestNG
 - 📫 How to reach me sandhyark1111@gmail.com
 
 <!---
